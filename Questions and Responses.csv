@@ -1,5 +1,5 @@
 ﻿Question,Good Answer,Bad Answer
-Tell me about yourself.,“I’m a software engineering student skilled in Python and Java. I’ve worked on projects in data analysis machine learning and web development and I am eager to solve real-world problems with my skills and learn more.”," I am a student currently studying software engineering, I want to seek a job. I have not developed any skills yet. "
+Tell me about yourself.,I am a software engineering student skilled in Python and Java. I’ve worked on projects in data analysis machine learning and web development and I am eager to solve real-world problems with my skills and learn more.”," I am a student currently studying software engineering, I want to seek a job. I have not developed any skills yet. "
 Why do you want to work at our company?,Because your company is known for innovation in AI and I would like to apply my skills while learning from industry experts.,Because I have completed my education and now I have to find a job. Also your company was referred to me 
 What are your strengths and weaknesses?,My strength is problem-solving under pressure and my weakness is public speaking but I’m working on improving it through practice,I do not think I  have weaknesses. My strength is I can do everything.
 Describe a project you worked on and your role,I built a chatbot with a team of 3. My role was to work on NLP with a Python backend my work helped in improving the system’s accuracy by 15%,I have not participated in any project yet. I am a fresh graduate so I have not learnt anything.
@@ -24,3 +24,4 @@ What’s the difference between compilation and interpretation?,Compilation tran
 Can you explain overfitting in machine learning?,"Overfitting happens when a model learns noise in the training data, performing well on training but poorly on unseen data. Regularization, pruning, or more data can help prevent it",It means the model fits perfectly. That’s a good thing.
 What is an API?,"An API allows two systems to communicate through defined endpoints, e.g., weather app fetching data.",It is just a website which displays data
 Difference between classification and regression?,Classification predicts categories such as spam or not regression predicts continuous values like  house prices,Classification is predicting categories while regression shows a relation
+
